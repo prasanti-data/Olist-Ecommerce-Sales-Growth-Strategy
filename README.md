@@ -7,16 +7,15 @@ This project analyzes the Olist e-commerce dataset to understand sales trends, c
 - **Explore key factors** that drive sales growth  
 - **Study customer and seller behavior** patterns  
 - **Compare product category and regional performance**  
-- **Predict payment value** using regression models  
-- **Forecast monthly revenue** with time-series models  
+- **Predict payment value** using linear regression  
 
 ---
 
 ### 📊 Key Insights
-- **Price and payment value** are strongly correlated  
-- **Freight value** is tied to product weight and volume  
-- **Delivery delay** is related to actual delivery time but not review scores  
-- **Home & Furniture** and **Health & Beauty** lead demand, while **Fashion** underperforms  
+- Encourage cross-selling based on customer purchase patterns
+- Top selling states: São Paulo and Rio de Janeiro
+- Product seasonality: Peak sales in November and December
+- Identify high-value customers for targeted marketing and loyalty programs
 
 ---
 
