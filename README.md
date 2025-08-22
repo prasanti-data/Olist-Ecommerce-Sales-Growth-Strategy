@@ -29,10 +29,10 @@ This project analyzes the Olist e-commerce dataset to understand sales trends, c
 ---
 
 ### 📂 Repository Contents
-- `data/` – Dataset or links  
+- `data/` – [Olist Dataset on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
 - `Jupyter Notebook (.ipynb)` – Full data cleansing, EDA, and commentary  
 - **Project Instructions** – PDFs (SMART problem, issue tree, etc.)  
-- **Tableau Dashboard** – View here  
+- **Tableau Dashboard** – https://public.tableau.com/app/profile/prasanti.mishra/viz/ECommerce_17532279045400/Presentation 
 - **Presentation Slides** – Executive-ready visuals  
 
 ---
